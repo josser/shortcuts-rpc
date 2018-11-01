@@ -1,0 +1,24 @@
+{
+  "name": "shortcuts-rpc",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/josser/shortcuts-rpc.git"
+  },
+  "author": "Dmitry Chirkin <josser@nixsolutions.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/josser/shortcuts-rpc/issues"
+  },
+  "homepage": "https://github.com/josser/shortcuts-rpc#readme",
+  "dependencies": {
+    "koa": "^2.6.1",
+    "massive": "^5.5.1",
+    "nodegit": "^0.23.0"
+  }
+}
